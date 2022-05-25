@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Gym Los Andes</string>
+
+
+    <string name="datos_personales">Datos personales</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="edad">Edad</string>
+    <string name="peso">Peso</string>
+    <string name="Talla_Altura">Talla_Altura</string>
+    <string name="materias_notas">Materias / Notas</string>
+
+    <string name="btn_registrar">REGISTRAR</string>
+
+
+    <string name="Inicio">Gimnasio Los Andes</string>
+    <string name="registro_1">REGISTRO</string>
+    <string name="estadisticas_1">ESTADISTICAS</string>
+    <string name="ayuda_1">AYUDA</string>
+    <string name="autor">By Diego Alzate</string>
+
+
+    <string name="ayuda_Principal">Información Del Sistema</string>
+    <string name="btn_atras">Atras</string>
+    <string name="Titulo">Bienvenid@ a nuestra aplicacion de Cálculo de IMC\n</string>
+    <string name="informacion">
+        \nEl programa permite llevar un registro de los usuarios y su indice de masa corporal
+        para un adecuado plan de alimentación y rutina de ejercicios.\n
+
+        \nSe cuenta con un menú donde podrá registrar los clientes con sus datos como nombre, edad, peso y Altura,
+        la opcion de filtrar las estadisticas de los clientes registrados, de quienes están en los estados de
+        Anorexia, Delgadez, Normal, Obesidad tipo 1, tipo 2, tipo 3 y Obesidad Mórbida.\n
+    </string>
+
+
+    <string name="resutado_titulo">Resultado</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="resultado"></string>
+
+
+
+    <string name="titulo_estadistica">Lista de clientes</string>
+    <string name="titulo_resumen">Resumen</string>
+    <string name="ganan">Ganan</string>
+    <string name="pierden">Pierden</string>
+    <string name="procesados">Procesados</string>
+    <string name="recuperan">Recuperan</string>
+    <string name="Anorexia">Anorexia</string>
+    <string name="Delgadez">Delgadez</string>
+    <string name="normal">Normal</string>
+    <string name="obesidad1">Obsesidad1</string>
+    <string name="obesidad2">Obsesisdad2</string>
+    <string name="obesidad3">Obesidad3</string>
+    <string name="obesidad_Morbida">Obesidad_Morbida</string>
+    <string name="Detalle_Resumen">Detalle Resumen</string>
+    <string name="Gimnasio_Los_Andes">Gimnasio_Los_Andes</string>
+    <string name="informacion_personal">Informacion Personal</string>
+    <string name="altura_talla">Altura_Talla</string>
+    <string name="autor_Diego_Alzate">By_Diego_Alzate</string>
+    <string name="btn_verEstadistica">Ver_Estadistica</string>
+
+
+</resources>
+

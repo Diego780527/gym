@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Diego/Documents/CursoSena/ADSI/Java/gym/app/src/main/res/layout/activity_ayuda.xml" value="0.25" />
+        <entry key="..\:/Users/Diego/Documents/CursoSena/ADSI/Java/gym/app/src/main/res/layout/activity_datocliente.xml" value="0.13179347826086957" />
+        <entry key="..\:/Users/Diego/Documents/CursoSena/ADSI/Java/gym/app/src/main/res/layout/activity_datopersonal.xml" value="0.22" />
+        <entry key="..\:/Users/Diego/Documents/CursoSena/ADSI/Java/gym/app/src/main/res/layout/activity_estadistica.xml" value="0.40625" />
+        <entry key="..\:/Users/Diego/Documents/CursoSena/ADSI/Java/gym/app/src/main/res/layout/activity_estadisticas.xml" value="0.25" />
+        <entry key="..\:/Users/Diego/Documents/CursoSena/ADSI/Java/gym/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Diego/Documents/CursoSena/ADSI/Java/gym/app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="..\:/Users/Diego/Documents/CursoSena/ADSI/Java/gym/app/src/main/res/layout/activity_splash.xml" value="0.29171817058096416" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
